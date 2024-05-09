@@ -1,4 +1,4 @@
-# Laboratory 2: Jacobian matrix of Cartesian Manipulator of Group 15
+# Laboratory 2: Jacobian Matrix of Cartesian Manipulator of Group 15
 
 **PROPONENTS:**
  
